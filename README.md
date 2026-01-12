@@ -1,4 +1,4 @@
-# Holdex Trial - OP Standard Bridge Demo
+# OP Standard Bridge Demo
 
 ## Overview
 ERC20 token deployment + L1↔L2 bridging via Optimism Standard Bridge.
